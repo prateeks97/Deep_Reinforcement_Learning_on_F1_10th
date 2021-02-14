@@ -1,6 +1,6 @@
 
 
-# Deep Reinforcement LEarning for Autonomous Driving
+# Deep Reinforcement Learning for Autonomous Driving
 
 ## Scaled Autonomous Vehicles - Team A
 
